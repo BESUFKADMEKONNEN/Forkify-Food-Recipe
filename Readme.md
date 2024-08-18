@@ -16,7 +16,7 @@ To get started with Forkify, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-  https://github.com/BESUFKADMEKONNEN/Forkify-Food-Recipe.git
+     https://github.com/BESUFKADMEKONNEN/Forkify-Food-Recipe.git
 
 
 2.Navigate to the project directory:
