@@ -2,6 +2,9 @@
 
 Forkify is a powerful web application that provides access to over 1 million recipes from around the world. It allows users to search for recipes, view detailed instructions, and manage their favorite dishes.
 
+## Live View
+###https://forkify-by-besu.netlify.app/
+
 ## Features
 
 - **Extensive Recipe Database**: Access to over 1 million recipes for various foods and cuisines.
